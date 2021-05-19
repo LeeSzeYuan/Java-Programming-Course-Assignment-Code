@@ -1,7 +1,3 @@
-// Lee Sze Yuan
-// A19EC0068
-// Section 02
-
 import java.util.*;
 
 class Temperature{
